@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package hello
 
 const constantPrefix = "hi "
 const hindiPrefix = "namaste "
@@ -24,9 +22,4 @@ func getPrefix(lang string) (prefix string) {
 		prefix = constantPrefix
 	}
 	return
-}
-
-func main() {
-	// fmt.Println("test driven dev...")
-	fmt.Println(Hello("madhav", ""))
 }
