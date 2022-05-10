@@ -8,3 +8,7 @@ also contains some arrays
 
 
 vscode go integration is very very epic
+
+future slice links
+- https://blog.golang.org/go-slices-usage-and-internals
+- https://gobyexample.com/slices
